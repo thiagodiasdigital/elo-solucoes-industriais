@@ -191,7 +191,7 @@ a {
 .hero {
   background:
     linear-gradient(110deg, rgba(8, 35, 63, .97) 0%, rgba(9, 54, 94, .94) 54%, rgba(8, 35, 63, .86) 100%),
-    url("assets/historia-loja-elo-limpa.jpg") center/cover;
+    url("assets/historia-loja-elo-nova.png") center/cover;
   color: var(--white);
   overflow: hidden;
 }
