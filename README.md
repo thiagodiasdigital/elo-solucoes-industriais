@@ -10,7 +10,7 @@ Site institucional estático da ELO Soluções Industriais em Juiz de Fora - MG.
 - `segmentos/`: soluções por público atendido
 - `mangueiras-hidraulicas/`: página específica de hidráulica
 - `contato/`: canais de atendimento
-- `public/assets/`: imagens públicas usadas no site
+- `assets/`: imagens públicas usadas no site
 
 ## Publicação
 

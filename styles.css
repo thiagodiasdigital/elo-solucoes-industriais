@@ -182,7 +182,7 @@ a {
 .hero {
   background:
     linear-gradient(110deg, rgba(8, 35, 63, .97) 0%, rgba(9, 54, 94, .94) 54%, rgba(8, 35, 63, .86) 100%),
-    url("public/assets/historia-loja-elo.jpg") center/cover;
+    url("assets/historia-loja-elo.jpg") center/cover;
   color: var(--white);
   overflow: hidden;
 }
@@ -436,7 +436,7 @@ a {
 .page-hero {
   background:
     linear-gradient(110deg, rgba(8, 35, 63, .96), rgba(11, 75, 130, .9)),
-    url("public/assets/solucoes-industriais-elo.jpg") center/cover;
+    url("assets/solucoes-industriais-elo.jpg") center/cover;
   color: var(--white);
   padding: clamp(4rem, 8vw, 7rem) 1.25rem;
 }
