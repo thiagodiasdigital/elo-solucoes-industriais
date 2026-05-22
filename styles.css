@@ -348,7 +348,36 @@ a {
   background: var(--white);
   border: 1px solid var(--line);
   border-radius: 8px;
+  overflow: hidden;
   padding: 1.2rem;
+}
+
+.card.product-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.product-card img,
+.solution-thumb {
+  aspect-ratio: 16 / 10;
+  background: var(--soft);
+  border-bottom: 1px solid var(--line);
+  height: auto;
+  object-fit: cover;
+  width: 100%;
+}
+
+.product-card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: .8rem;
+  padding: 1.2rem;
+}
+
+.product-card-body .btn {
+  margin-top: auto;
 }
 
 .card h3 {
