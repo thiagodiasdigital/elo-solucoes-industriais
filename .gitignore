@@ -1,0 +1,12 @@
+# Project source briefings and raw social exports
+/*.txt
+/deep-research-report.md
+/SnapInsta.to_*.jpg
+/avatar-do-dono.jpg
+/imagem-para-pegar-logotipo.jpg
+/imagens-linha-produtos/
+
+# Local/system files
+.DS_Store
+Thumbs.db
+.vercel
