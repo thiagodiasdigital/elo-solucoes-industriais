@@ -3,6 +3,8 @@
   --ink-2: #123a63;
   --red: #d91f26;
   --red-dark: #a9151b;
+  --logo-blue: #062f67;
+  --logo-blue-dark: #051f49;
   --blue: #0b4b82;
   --soft: #f3f6f8;
   --line: #d9e2ea;
@@ -166,13 +168,13 @@ a {
 }
 
 .btn-primary {
-  background: var(--red);
-  box-shadow: 0 14px 26px rgba(217, 31, 38, .24);
+  background: var(--logo-blue);
+  box-shadow: 0 14px 26px rgba(6, 47, 103, .24);
   color: var(--white);
 }
 
 .btn-primary:hover {
-  background: var(--red-dark);
+  background: var(--logo-blue-dark);
 }
 
 .btn-secondary {
