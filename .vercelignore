@@ -1,8 +1,8 @@
 .git
 .vercel
-*.txt
-deep-research-report.md
-SnapInsta.to_*.jpg
-avatar-do-dono.jpg
-imagem-para-pegar-logotipo.jpg
-imagens-linha-produtos/
+/*.txt
+/deep-research-report.md
+/SnapInsta.to_*.jpg
+/avatar-do-dono.jpg
+/imagem-para-pegar-logotipo.jpg
+/imagens-linha-produtos/
