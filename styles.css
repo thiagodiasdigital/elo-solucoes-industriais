@@ -79,6 +79,13 @@ a {
   min-width: 210px;
 }
 
+.brand-logo {
+  border-radius: 6px;
+  height: 56px;
+  object-fit: contain;
+  width: 56px;
+}
+
 .brand-mark {
   align-items: center;
   background: var(--ink);
@@ -587,6 +594,11 @@ a {
 
   .brand {
     min-width: auto;
+  }
+
+  .brand-logo {
+    height: 50px;
+    width: 50px;
   }
 
   .brand-text small {
